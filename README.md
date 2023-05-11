@@ -3,7 +3,7 @@
 # Hello! 
 
 
-## My name is Garrett Arnett and I am working on becoming a Data Engineer though CodeUp.
+## My name is Garrett Arnett and I am a Data Engineer.
 
 
 
