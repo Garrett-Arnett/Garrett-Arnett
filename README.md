@@ -1,4 +1,4 @@
-## I'm Garrett Arnett!
+## I'm Garrett Arnett.
 
 I'm a detail oriented and self-motivated business graduate with certified and proven Data Science skills. With a strong connection between theory and practice, able to leverage data science-related technologies and in any project-based, professional setting. Having always been fascinated by puzzles, coding is like a puzzle.
 
